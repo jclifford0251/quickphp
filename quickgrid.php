@@ -1,5 +1,8 @@
 <?php
-
+/*
+ * AUTHOR: James Clifford <jclifford0251+quick@hotmail.com>
+ * DATE  : 2014-02-01
+ */
 class quickgrid {
     //////////////////////////////////////////////////////////
     // Member Variables
@@ -330,4 +333,3 @@ class quickgrid {
         return "$path$vars";
     }
 }
-
